@@ -28,12 +28,12 @@ To compile and run this project, you’ll need:
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/snakes-and-ladders-game.git
+   git clone https://github.com/seervik/graphics_in_C.git
    cd snakes-and-ladders-game
 2. **Compiling and Running the Code
    ```bash
-   g++ -o snakes_and_ladders main.cpp -lgraphics
-   ./snakes_and_ladders
+   g++ main.cpp -o main
+   ./main
 
 🎲 Usage
  - Start the Game: Run the executable file to launch the game.
